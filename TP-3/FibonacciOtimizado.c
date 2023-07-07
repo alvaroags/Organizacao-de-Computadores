@@ -20,7 +20,7 @@ long long int FibonacciRecursivo(int n) {
 }
 
 int main() {
-    int i, n = 100;
+    int i, n = 20;
 
     // Inicializar o array com valores -1 (indicando que ainda não foram calculados)
     for (i = 0; i < MAX_SIZE; i++) {

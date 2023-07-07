@@ -29,10 +29,10 @@ void QuickSort(int *v, int inicio, int fim){
 }
 
 int main(){
-    int i = 0, n = 10000;
+    int i = 0, n = 1000;
     int *v = (int*)malloc(n*sizeof(int));
     FILE *arquivo;
-    arquivo = fopen("EntradaDezMil.txt", "r");
+    arquivo = fopen("EntradaMil.txt", "r");
 
     while(!feof(arquivo)){
         fscanf(arquivo, "%d", &v[i]);

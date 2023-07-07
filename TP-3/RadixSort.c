@@ -37,10 +37,10 @@ void RadixSort(int *v, int tam){
 }
 
 int main(){
-    int i = 0, n = 100000;
+    int i = 0, n = 1000;
     int *v = (int*)malloc(n*sizeof(int));
     FILE *arquivo;
-    arquivo = fopen("EntradaCemMil.txt", "r");
+    arquivo = fopen("EntradaMil.txt", "r");
 
     while(!feof(arquivo)){
         fscanf(arquivo, "%d", &v[i]);

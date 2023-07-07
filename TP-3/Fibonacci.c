@@ -18,7 +18,7 @@ long long int FibonacciRecursivo(int n){
 }
 
 int main(){
-    int i, n = 45;
+    int i, n = 20;
     long long int v;
 
     for(i=0; i<n; i++)
