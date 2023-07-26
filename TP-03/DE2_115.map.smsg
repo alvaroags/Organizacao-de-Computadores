@@ -1,0 +1,7 @@
+Info (10281): Verilog HDL Declaration information at de2_115.v(423): object "PC" differs only in case from object "pc" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 423
+Info (10281): Verilog HDL Declaration information at de2_115.v(248): object "LCD_DATA" differs only in case from object "lcd_data" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 248
+Info (10281): Verilog HDL Declaration information at de2_115.v(247): object "LCD_BLON" differs only in case from object "lcd_blon" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 247
+Info (10281): Verilog HDL Declaration information at de2_115.v(249): object "LCD_EN" differs only in case from object "lcd_en" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 249
+Info (10281): Verilog HDL Declaration information at de2_115.v(250): object "LCD_ON" differs only in case from object "lcd_on" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 250
+Info (10281): Verilog HDL Declaration information at de2_115.v(251): object "LCD_RS" differs only in case from object "lcd_rs" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 251
+Info (10281): Verilog HDL Declaration information at de2_115.v(252): object "LCD_RW" differs only in case from object "lcd_rw" in the same scope File: D:/prog/OC1/TP2_OC/de2_115.v Line: 252
