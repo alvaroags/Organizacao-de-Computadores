@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FPGA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TP-03/FPGA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
